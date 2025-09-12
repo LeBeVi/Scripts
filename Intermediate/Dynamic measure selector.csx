@@ -5,7 +5,7 @@
  * 
  * Use this script to auto-generate a disconnected measure selector table
  * along with a single SWITCH measure, for a selection of measures.
- * More info: https://tabulareditor.com/2020/08/24/Generating-a-dynamic-measure-selector.html
+ * More info: https://tabulareditor.com/blog/generating-a-dynamic-measure-selector
  */
 
 // (1) Name of disconnected selector table:
